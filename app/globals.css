@@ -3,14 +3,19 @@
 @tailwind utilities;
 
 :root {
-  --color-bg: #1a1a1a;
-  --color-text: #ffffff;
-  --color-accent: #ff1744;
-  --color-secondary: #2196f3;
-  --color-tertiary: #b71c1c;
-  --color-card-bg: #2c2c2c;
-  --color-footer-bg: #0d0d0d;
+  --color-bg: #1e1b29; /* Fondo morado oscuro */
+  --color-text: #eae0f2; /* Texto blanco con un toque lila */
+  --color-accent: #8e24aa; /* Morado intenso y sofisticado */
+  --color-secondary: #512da8; /* Morado real profundo */
+  --color-tertiary: #311b92; /* Violeta oscuro */
+  --color-card-bg: #2a2438; /* Fondo de tarjeta morado grisáceo */
+  --color-footer-bg: #16132c; /* Fondo oscuro casi negro */
 }
+
+
+
+
+
 
 body {
   color: var(--color-text);
