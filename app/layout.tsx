@@ -5,8 +5,8 @@ import { LanguageProvider } from '../contexts/LanguageContext'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Irvin Benitez - Full Stack Developer',
-  description: 'Portfolio of Irvin Benitez, a passionate Full Stack Developer',
+  title: 'Irvin Benitez - Software Developer',
+  description: 'Portfolio of Irvin Benitez, a passionate Software Developer',
 }
 
 export default function RootLayout({
