@@ -3,14 +3,16 @@
 @tailwind utilities;
 
 :root {
-  --color-bg: #1e1b29; /* Fondo morado oscuro */
-  --color-text: #eae0f2; /* Texto blanco con un toque lila */
-  --color-accent: #8e24aa; /* Morado intenso y sofisticado */
-  --color-secondary: #512da8; /* Morado real profundo */
-  --color-tertiary: #311b92; /* Violeta oscuro */
-  --color-card-bg: #2a2438; /* Fondo de tarjeta morado grisáceo */
-  --color-footer-bg: #16132c; /* Fondo oscuro casi negro */
+  --color-bg: #0a0f1e; /* Fondo oscuro con un toque de azul profundo */
+  --color-text: #d1f4ff; /* Azul claro brillante para el texto */
+  --color-accent: #00bfff; /* Azul neón vibrante como color principal */
+  --color-secondary: #ff007f; /* Rosa neón complementario */
+  --color-tertiary: #00ffcc; /* Verde neón para detalles llamativos */
+  --color-card-bg: #102542; /* Fondo de tarjeta azul oscuro con tonos profundos */
+  --color-footer-bg: #081018; /* Fondo casi negro con una pizca de azul */
 }
+
+
 
 
 

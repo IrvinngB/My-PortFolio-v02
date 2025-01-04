@@ -47,6 +47,12 @@ const projects = {
       description: 'Developed a comprehensive web page for statistical analysis using Jupyter Notebook, Python, HTML, and CSS. This project enhances data visualization and provides insightful analysis.',
       link: 'https://examen-estadistica.vercel.app/',
     },
+    {
+      title: "Financial Control Project",
+      description: "I developed a financial control web application using React, Supabase, and Next.js. The app allows users to manage their personal finances and includes a login and registration system that secures all user information. It also features interactive charts and various functionalities for efficient financial management.",
+      link: "https://finance.irvin-benitez.software/"
+    }
+    ,
   ],
   es: [
     {
@@ -88,6 +94,11 @@ const projects = {
       title: 'Proyecto de Estadísticas',
       description: 'Desarrollé una página web integral para análisis estadístico utilizando Jupyter Notebook, Python, HTML y CSS. Este proyecto mejora la visualización de datos y proporciona un análisis perspicaz.',
       link: 'https://examen-estadistica.vercel.app/',
+    },
+    {
+      title: "Proyecto de Control Financiero",
+      description: "Desarrollé una aplicación web de control financiero utilizando React, Supabase y Next.js. La aplicación permite gestionar finanzas personales e incluye un sistema de inicio de sesión y registro que protege toda la información de los usuarios. Además, cuenta con gráficos interactivos y diversas funcionalidades para un manejo eficiente de las finanzas.",
+      link: "https://finance.irvin-benitez.software/"
     },
   ],
 }
