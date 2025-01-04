@@ -3,13 +3,12 @@
 @tailwind utilities;
 
 :root {
-  --color-bg: #0a0f1e; /* Fondo oscuro con un toque de azul profundo */
-  --color-text: #d1f4ff; /* Azul claro brillante para el texto */
-  --color-accent: #00bfff; /* Azul neón vibrante como color principal */
-  --color-secondary: #ff007f; /* Rosa neón complementario */
-  --color-tertiary: #00ffcc; /* Verde neón para detalles llamativos */
-  --color-card-bg: #102542; /* Fondo de tarjeta azul oscuro con tonos profundos */
-  --color-footer-bg: #081018; /* Fondo casi negro con una pizca de azul */
+  --color-bg: #001f3f; /* Azul oscuro profundo como fondo principal para transmitir profesionalismo */
+  --color-text: #ffffff; /* Beige claro para texto legible y cálido sobre el fondo oscuro */
+  --color-accent: #3a6d8c; /* Azul medio como color principal para botones y enlaces */
+  --color-secondary: #6a9ab0; /* Azul claro suave para destacar elementos secundarios */
+  --color-card-bg: #003057; /* Un tono más oscuro derivado del azul principal para las tarjetas */
+  --color-footer-bg: #001a35; /* Azul profundo casi negro para un pie de página discreto */
 }
 
 
