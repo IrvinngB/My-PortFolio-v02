@@ -10,7 +10,7 @@ const projects = {
     {
       title: 'WhatsApp Chat Bot',
       description: 'I developed a custom WhatsApp bot with the ability to provide intelligent responses using the Gemini AI API.',
-      link: 'https://github.com/IrvinngB/Bot-WhatsApp',
+      link: 'https://wa.me/50768039776',
     },
     {
       title: 'Registration Form',
@@ -58,7 +58,7 @@ const projects = {
     {
       title: 'Bot de WhatsApp',
       description: 'Desarrollé un bot personalizado de WhatsApp con la capacidad de proporcionar respuestas inteligentes utilizando la API de Gemini AI.',
-      link: 'https://github.com/IrvinngB/Bot-WhatsApp',
+      link: 'https://wa.me/50768039776',
     },
     {
       title: 'Formulario de Registro',
